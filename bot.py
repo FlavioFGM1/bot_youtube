@@ -68,6 +68,8 @@ def main():
             )
 
 
+
+
         # Forçando uma exception para registrarmos um erro
         #x = 0/0
 
