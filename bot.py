@@ -67,7 +67,7 @@ def main():
                 filepath="captura.png"
             )
 
-
+      
 
 
         # Forçando uma exception para registrarmos um erro
